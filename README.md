@@ -19,7 +19,8 @@ Efe VARDALI <br>
 ## Sayfalar Hakkında Bilgiler -->
 ### Home: <br>
 
-Navbar'ın sol üstüne logo ekleyerek sekmeleri sağ tarafa kaydırdık. Body kısmına slider ekleyerek fotoğraflar yerleştirdik. Aşşağı kısma Premier Lig'de bulunan takımların logolarını koyduk.En alt kısma contact kısmı ekledik. Kodlarımızın çoğunu Bootstrap ile yazdık. Ve Photoshop üzerinden fotoğraflarımızı düzenledik. Tüm logoları PNGEgg üzerinden indirdik. <br>
+Navbar'ın sol üstüne logo ekleyerek sekmeleri sağ tarafa kaydırdık. Body kısmına slider ekleyerek fotoğraflar yerleştirdik. Aşşağı kısma Premier Lig'de bulunan takımların logolarını koyduk. En alt kısma contact kısmı ekledik. Kodlarımızın çoğunu Bootstrap ile yazdık. Ve Photoshop üzerinden fotoğraflarımızı düzenledik. Tüm logoları PNGEgg üzerinden indirdik. <br>
+
 
 ### News: <br>
 
